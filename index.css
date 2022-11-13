@@ -107,6 +107,9 @@ nav.navbar .navbar-brand {
 }
 
 .right-corner .noti .badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: absolute;
     top: -2px;
     right: -8px;
