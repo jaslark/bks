@@ -476,6 +476,7 @@ nav.navbar .navbar-brand {
     
     .container-layout .wrapper .side-bar {
         flex-basis: 50px;
+        margin-right: 10px;
         display: none;
     }
 
