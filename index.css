@@ -418,6 +418,10 @@ nav.navbar .navbar-brand {
         height: 100%;
     }
 
+    .container-layout .wrapper .content .content-primary {
+        padding: 16px;
+    }
+
     .container-layout .wrapper .content .content-primary .content-primary--body .box {
         width: 382px;
     }
@@ -449,6 +453,10 @@ nav.navbar .navbar-brand {
     .container-layout .wrapper .content .content-primary .content-primary--header .btn-dropdown-document .icon-dropdown {
         padding-left: 5px;
         padding-right: 0px;
+    }
+
+    .container-layout .wrapper .content .content-primary .content-primary--body {
+        overflow: hidden;
     }
 }
 
