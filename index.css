@@ -403,6 +403,7 @@ nav.navbar .navbar-brand {
 
     .container-layout .wrapper .content .content-footer  {
         justify-content: center;
+        padding: 16px;
     }
 
     .container-layout .wrapper .content .content-footer .content-footer__text.first,    
